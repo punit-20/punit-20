@@ -1,5 +1,8 @@
 # 💫 About Me:
-BOT DEVELOPER 🤖<br>WEB DEVELOPER 🌍<br>TOOL DEVELOPER 👨‍💻<br>WORKED ON 100+ Peojects
+* BOT DEVELOPER 🤖
+* WEB DEVELOPER 🌍
+* TOOL DEVELOPER 👨‍💻
+* WORKED ON 100+ Peojects
 
 
 ## 🌐 Socials:
