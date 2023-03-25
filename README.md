@@ -3,6 +3,7 @@
 * WEB DEVELOPER 🌍
 * TOOL DEVELOPER 👨‍💻
 * WORKED ON 100+ Peojects
+* PROUD TO BE A 🇮🇳
 
 
 ## 🌐 Socials:
