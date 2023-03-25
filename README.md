@@ -19,5 +19,5 @@ BOT DEVELOPER 🤖<br>WEB DEVELOPER 🌍<br>TOOL DEVELOPER 👨‍💻<br>WORKED
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=3vil-Indian&icon=7&color=3)]
+<!-- [](https://visitcount.itsvg.in/api?id=3vil-Indian&icon=7&color=3) -->
 
