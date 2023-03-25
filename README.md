@@ -15,9 +15,9 @@ BOT DEVELOPER 🤖<br>WEB DEVELOPER 🌍<br>TOOL DEVELOPER 👨‍💻<br>WORKED
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=3vil-Indian&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=3vil-Indian&icon=7&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=3vil-Indian&icon=7&color=3)]
 
