@@ -23,5 +23,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=punit20&icon=7&color=3)
+![](https://visitcount.itsvg.in/api?id=punit-20&icon=7&color=3)
 
