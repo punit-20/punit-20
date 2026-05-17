@@ -1,10 +1,20 @@
 # 💫 About Me:
-* BOT DEVELOPER 🤖
-* WEB DEVELOPER 🌍
-* TOOL DEVELOPER 👨‍💻
-* WORKED ON 100+ Peojects
-* PROUD TO BE A 🇮🇳
+Hi, I'm Punit 👋  
+A passionate Full Stack Developer from India 🇮🇳 focused on building responsive web applications, automation tools, and real-world projects.
 
+### 🚀 What I Do
+- 🌐 Web Development
+- ⚙️ Backend & Database Management
+- 🛠️ Developer Tools & Automation
+- 🎮 Real-Time & Multiplayer Systems
+
+### 💻 Tech Stack
+HTML • CSS • JavaScript • PHP • MySQL • React.js
+
+### 📌 Currently
+- Building full stack projects
+- Learning modern web technologies
+- Working on scalable applications and UI improvements
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/heispunit/)
